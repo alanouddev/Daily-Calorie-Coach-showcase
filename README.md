@@ -25,3 +25,18 @@ Daily Calorie Coach & Meal Planner is a group project developed as part of a Com
 
 This repository presents the project idea, features, and output.  
 The source code is kept private.
+
+
+## Project Output
+
+### User Information and Activity Level
+
+![User input and activity level](<./لقطة شاشة 2026-07-06 013603.png>)
+
+### Calorie Summary and Daily Meal Plan
+
+![Calorie summary and daily meal plan](<./لقطة شاشة 2026-07-06 013613.png>)
+
+### Weekly Meal Plan
+
+![Weekly meal plan](<./لقطة شاشة 2026-07-06 013622.png>)
