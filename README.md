@@ -44,4 +44,4 @@ The source code is kept private.
 
 ## Demo
 
-[▶ Watch the project demo](./daily-calorie-coach-demo)
+[▶ Watch the project demo](./daily-calorie-coach-demo.mp4)
