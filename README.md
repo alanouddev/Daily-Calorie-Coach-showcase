@@ -40,3 +40,8 @@ The source code is kept private.
 ### Weekly Meal Plan
 
 ![Weekly meal plan](<./لقطة شاشة 2026-07-06 013622.png>)
+
+
+## Demo
+
+[▶ Watch the project demo](./daily-calorie-coach-demo)
